@@ -1,0 +1,66 @@
+<div class="characteristic">
+        <div class="characteristic_l">
+            <ul>
+                <li class="active">
+                    <img src="images/202_image.jpg" alt="" class="show_pc" />
+                    <img src="images/202_image_mb.png" alt="" class="show_mo" />
+                </li>
+                <li>
+                    <img src="images/a1.jpg" class="show_pc" />
+                    <img src="images/a1_mb.jpg" alt="" class="show_mo" />
+                </li>
+                <li>
+                    <img src="images/a2.jpg" class="show_pc" />
+                    <img src="images/a2_mb.jpg" alt="" class="show_mo" />
+                </li>
+                <li>
+                    <img src="images/a3.jpg" class="show_pc" />
+                    <img src="images/a3_mb.jpg" alt="" class="show_mo" />
+                </li>
+                <li>
+                    <img src="images/a4.jpg" class="show_pc" />
+                    <img src="images/a4_mb.jpg" alt="" class="show_mo" />
+                </li>
+            </ul>
+        </div>
+        <div class="characteristic_r">
+            <div class="characteristic_box">
+                <h2 class="title">
+                    投資特色
+                </h2>
+                <div class="intro">
+                    桃園是國門之都，坐擁桃園國際機場，平均三小時即可抵達亞太主要城市，具交通區位優勢，是運籌亞太與鏈結世界的關鍵樞紐。
+                </div>
+                <div class="top_menu">
+
+                    <ul>
+                        <li class="active">
+                            <div class="chara_butttom">
+                                亞太關鍵樞紐
+                            </div>
+                        </li>
+                        <li>
+                            <div class="chara_butttom">
+                                交通網絡便捷
+                            </div>
+                        </li>
+                        <li>
+                            <div class="chara_butttom">
+                                國際行銷櫥窗
+                            </div>
+                        </li>
+                        <li>
+                            <div class="chara_butttom">
+                                人才創新育成
+                            </div>
+                        </li>
+                        <li>
+                            <div class="chara_butttom">
+                                產業園區分布
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
