@@ -1,0 +1,224 @@
+[
+  {
+    "BaseName": "base-mobile",
+    "hd": "@%410%@手機版選單%%",
+    "func": "{'toggleBtn':{'btnOrangeText':'@%2256%@目前為關閉%%','btnActiveText':'@%2255%@目前為開啟%%'}}",
+    "Sub": [
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "Search"
+      },
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "ShareBox"
+      },
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "Menu",
+        "func": "{'majorNavStraight':{}}"
+      },
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "HotKeyWord"
+      },
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "TopLink"
+      },
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "FooterLink"
+      }
+    ]
+  },
+  {
+    "BaseName": "base-extend",
+    "Sub": [
+      {
+        "GroupType": "Module",
+        "Type": 0,
+        "hd": "",
+        "ct": "<span><a href=\"#\" title=\"@%392%@回最上面%%[@%2147%@連結%%]\">@%392%@回最上面%%</a></span>",
+        "ft": "",
+        "Class": "simple-text btn",
+        "func": "{'anchor':{},'scrollToShow':{}}"
+      }
+    ]
+  },
+  {
+    "BaseName": "base-header",
+    "Sub": [
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "Accesskey_U"
+      },
+      {
+        "GroupType": "Group",
+        "Type": 3,
+        "Class": "info",
+        "func": "",
+        "Sub": [
+          {
+            "GroupType": "FixedModuleString",
+            "Name": "TopLog"
+          },
+          {
+            "GroupType": "Group",
+            "Type": 3,
+            "Class": "msg-tool",
+            "func": "",
+            "Sub": [
+              {
+                "GroupType": "FixedModuleString",
+                "Name": "Accesskey_ToContent"
+              },
+              {
+                "GroupType": "FixedModuleString",
+                "Name": "TopLink"
+              },
+              {
+                "GroupType": "FixedModuleString",
+                "Name": "FontLevel",
+                "func": "{'fontSize':{}}"
+              },
+              {
+                "GroupType": "FixedModuleString",
+                "Name": "ShareBox"
+              },
+              {
+                "GroupType": "Group",
+                "Type": 3,
+                "Class": "search-tool",
+                "hd": "搜尋",
+                "func": "{'toggleBtn':{}}",
+                "Sub": [
+                  {
+                    "GroupType": "FixedModuleString",
+                    "Name": "Search",
+                    "func": "{'showDataList':{}}"
+                  },
+                  {
+                    "GroupType": "FixedModuleString",
+                    "Name": "HotKeyWord"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "MagaMenu",
+        "func": "{'hud':{},'majorNavHorizontal':{},'setNavWidth':{},'characteristic':{}}"
+      }
+    ]
+  },
+  {
+    "BaseName": "base-footer",
+    "hd": "@%1747%@選單%%",
+    "func": "{'toggleBtn':{'btnOrangeText':'close','btnActiveText':'open','focusActive':false,'btnTextRemove':true}}",
+    "Sub": [
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "Accesskey_Z"
+      },
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "FatFootMenu",
+        "func": "{'setNavLen':{}}"
+      },
+      {
+        "GroupType": "Group",
+        "Type": 3,
+        "Class": "info",
+        "func": "",
+        "Sub": [
+          {
+            "GroupType": "FixedModuleString",
+            "Name": "FooterIcon"
+          },
+          {
+            "GroupType": "Group",
+            "Type": 3,
+            "Class": "msg-tool",
+            "func": "",
+            "Sub": [
+              {
+                "GroupType": "FixedModuleString",
+                "Name": "FooterLink"
+              },
+              {
+                "GroupType": "FixedModuleString",
+                "Name": "Lastupdated"
+              },
+              {
+                "GroupType": "FixedModuleString",
+                "Name": "Footer_Visitcount"
+              },
+              {
+                "GroupType": "FixedModuleString",
+                "Name": "Footer_Info",
+                "func": "{'linkToMap':{'bindClass':'.map','linkClass':'is-map'}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "BaseName": "page-header",
+    "Sub": [
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "WebArchive_Breadcrumb"
+      },
+      {
+        "GroupType": "Group",
+        "Type": 3,
+        "Class": "info",
+        "func": "",
+        "Sub": [
+          {
+            "GroupType": "FixedModuleString",
+            "Name": "WebArchive_Header"
+          },
+          {
+            "GroupType": "Group",
+            "Type": 3,
+            "Class": "msg-tool",
+            "func": "",
+            "Sub": [
+              {
+                "GroupType": "FixedModuleString",
+                "Name": "Accesskey_ToContent",
+                "func": "{'focusContent':{}}"
+              },
+              {
+                "GroupType": "FixedModuleString",
+                "Name": "WebArchive_OpenData"
+              },
+              {
+                "GroupType": "FixedModuleString",
+                "Name": "Tools"
+              },
+              {
+                "GroupType": "FixedModuleString",
+                "Name": "WebArchive_TTS"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "WebArchive_NextNodes"
+      },
+      {
+        "GroupType": "FixedModuleString",
+        "Name": "WebArchive_TopDesc"
+      }
+    ]
+  }
+]
