@@ -25270,36 +25270,12 @@ body, html {
 }
 .characteristic_l ul {
   position: relative;
-  width: 100%;
-  padding-bottom: 109%;
-}
-@media (max-width: 1900px) {
-  .characteristic_l ul {
-    padding-bottom: 115%;
-  }
-}
-@media (max-width: 1850px) {
-  .characteristic_l ul {
-    padding-bottom: 125%;
-  }
-}
-@media (max-width: 1650px) {
-  .characteristic_l ul {
-    padding-bottom: 132%;
-  }
-}
-@media (max-width: 1550px) {
-  .characteristic_l ul {
-    padding-bottom: 139%;
-  }
-}
-@media (max-width: 1270px) {
-  .characteristic_l ul {
-    padding-bottom: 144%;
-  }
+  width: 95%;
+  padding-bottom: 80.1%;
 }
 @media (max-width: 991px) {
   .characteristic_l ul {
+    width: 100%;
     padding-bottom: 130%;
   }
 }
@@ -25528,11 +25504,11 @@ body, html {
 .advantage {
   max-width: 850px;
   padding: 0 24px;
-  margin: 0 auto 8em;
+  margin: 6em auto 0;
 }
 @media (max-width: 767px) {
   .advantage {
-    margin: 0 auto 4em;
+    margin: 0 auto;
   }
 }
 .advantage h2.title {
@@ -25735,8 +25711,13 @@ body, html {
 .group.base-module-area > .in > .ct > .in > .group.default > .in > .ct > .in > .group.default > .in > .ct > .in > .group.default > .in > .ct > .in > .group.default > .in > .ct > .in .group-list.slider {
   width: 1278px;
   max-width: calc(100% - 48px);
-  margin: 0 auto;
+  margin: 0 auto 7em;
   padding: 0 24px;
+}
+@media (max-width: 768px) {
+  .group.base-module-area > .in > .ct > .in > .group.default > .in > .ct > .in > .group.default > .in > .ct > .in > .group.default > .in > .ct > .in > .group.default > .in > .ct > .in .group-list.slider {
+    margin: 0 auto;
+  }
 }
 .group.base-module-area > .in > .ct > .in > .group.default > .in > .ct > .in > .group.default > .in > .ct > .in > .group.default > .in > .ct > .in > .group.default > .in > .ct > .in .group-list.slider > .in > .hd > .in h2 {
   font-family: "Noto Sans TC", sans-serif;
@@ -25969,6 +25950,7 @@ body, html {
   }
 }
 .news_box h2.news_title {
+  display: block;
   margin-bottom: 1.55em;
   font-family: "Noto Sans TC", sans-serif;
   position: relative;
@@ -26014,7 +25996,7 @@ body, html {
 
 .group-tab.default {
   width: 1278px;
-  margin: 0 auto;
+  margin: -1em auto;
   padding: 0 24px;
   max-width: calc(100% - 48px);
 }

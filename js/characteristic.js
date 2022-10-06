@@ -13,7 +13,7 @@ define(function(){
                 if(charaIndex == 1){
                     $('.characteristic_l ul').css("paddingBottom","88%")
                 }else if(charaIndex == 2){
-                    $('.characteristic_l ul').css("paddingBottom","55%")
+                    $('.characteristic_l ul').css("paddingBottom","80.1%")
                 }else if(charaIndex == 3){
                     $('.characteristic_l ul').css("paddingBottom","115%")
                 }else if(charaIndex == 4){
