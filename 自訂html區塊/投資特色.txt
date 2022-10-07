@@ -35,27 +35,27 @@
 
                     <ul>
                         <li class="active">
-                            <div class="chara_butttom">
+                            <div class="chara_butttom" tabindex="0">
                                 亞太關鍵樞紐
                             </div>
                         </li>
                         <li>
-                            <div class="chara_butttom">
+                            <div class="chara_butttom" tabindex="0">
                                 交通網絡便捷
                             </div>
                         </li>
                         <li>
-                            <div class="chara_butttom">
+                            <div class="chara_butttom" tabindex="0">
                                 國際行銷櫥窗
                             </div>
                         </li>
                         <li>
-                            <div class="chara_butttom">
+                            <div class="chara_butttom" tabindex="0">
                                 人才創新育成
                             </div>
                         </li>
                         <li>
-                            <div class="chara_butttom">
+                            <div class="chara_butttom" tabindex="0">
                                 產業園區分布
                             </div>
                         </li>
