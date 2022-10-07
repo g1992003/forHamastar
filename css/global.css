@@ -25235,6 +25235,10 @@ body, html {
   display: none;
 }
 
+.base-page-area .area-editor h2 {
+  display: block;
+}
+
 .characteristic {
   width: 100%;
   display: -webkit-box;
