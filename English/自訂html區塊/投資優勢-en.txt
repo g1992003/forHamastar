@@ -1,0 +1,9 @@
+<div class="advantage">
+    <h2 class="title">
+        Honors
+    </h2>
+    <div class="intro">
+        Taoyuan has a variety of diverse industries as well as a complete industrial structure, which are good for nurturing the creation of various industrial chains. In the future, six major industries, including cloud computing, smart vehicles, international logistics, biotechnology, aviation support, and green energy, will be important foci for development. 
+    </div>
+    <img src="images/01_TAOYUAN_index_07_en.png" alt="">
+</div>

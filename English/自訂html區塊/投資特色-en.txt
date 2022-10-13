@@ -1,0 +1,66 @@
+<div class="characteristic">
+        <div class="characteristic_l">
+            <ul>
+                <li class="active">
+                    <img src="images/202_image_en.png" alt="" class="show_pc" />
+                    <img src="images/202_image_mb_en.png" alt="" class="show_mo" />
+                </li>
+                <li>
+                    <img src="images/a1_en.png" class="show_pc" />
+                    <img src="images/a1_mb_en.jpg" alt="" class="show_mo" />
+                </li>
+                <li>
+                    <img src="images/a2_en.png" class="show_pc" />
+                    <img src="images/a2_mb_en.png" alt="" class="show_mo" />
+                </li>
+                <li>
+                    <img src="images/a3_en.png" class="show_pc" />
+                    <img src="images/a3_mb_en.jpg" alt="" class="show_mo" />
+                </li>
+                <li>
+                    <img src="images/a4_en.png" class="show_pc" />
+                    <img src="images/a4_mb_en.jpg" alt="" class="show_mo" />
+                </li>
+            </ul>
+        </div>
+        <div class="characteristic_r">
+            <div class="characteristic_box">
+                <h2 class="title">
+                    Attractiveness
+                </h2>
+                <div class="intro">
+                    It is located at the transportation hub in Asia. The distance between Taoyuan Airport and cities in Asia such as Tokyo, Singapore and Hong Kong averages about three hours away by plane.
+                </div>
+                <div class="top_menu">
+
+                    <ul>
+                        <li class="active">
+                            <div class="chara_butttom" tabindex="0">
+                                Aviation Advantage
+                            </div>
+                        </li>
+                        <li>
+                            <div class="chara_butttom" tabindex="0">
+                                Strategic Location
+                            </div>
+                        </li>
+                        <li>
+                            <div class="chara_butttom" tabindex="0">
+                                Internatinal Convention Center
+                            </div>
+                        </li>
+                        <li>
+                            <div class="chara_butttom" tabindex="0">
+                                Human Resources
+                            </div>
+                        </li>
+                        <li>
+                            <div class="chara_butttom" tabindex="0">
+                                Indusctrial Park
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>

@@ -1,0 +1,1 @@
+<div class="news_box"><h2 class="news_title">News</h2></div>
