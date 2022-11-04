@@ -26,37 +26,37 @@
         <div class="characteristic_r">
             <div class="characteristic_box">
                 <h2 class="title">
-                    Attractiveness
+                    Investment Features
                 </h2>
                 <div class="intro">
-                    It is located at the transportation hub in Asia. The distance between Taoyuan Airport and cities in Asia such as Tokyo, Singapore and Hong Kong averages about three hours away by plane.
+                    Investment Features: As the gate of Taiwan, Taoyuan City encloses Taoyuan International Airport, enabling passengers to reach major cities in Asia-Pacific within an average of three hours. With its location advantages, it is the center of gravity of international logistics that connects the world.
                 </div>
                 <div class="top_menu">
 
                     <ul>
                         <li class="active">
                             <div class="chara_butttom" tabindex="0">
-                                Aviation Advantage
+                                Key Hub in Asia-Pacific
                             </div>
                         </li>
                         <li>
                             <div class="chara_butttom" tabindex="0">
-                                Strategic Location
+                                Convenience in Transport Network
                             </div>
                         </li>
                         <li>
                             <div class="chara_butttom" tabindex="0">
-                                Internatinal Convention Center
+                                A Showcase of International Marketing
                             </div>
                         </li>
                         <li>
                             <div class="chara_butttom" tabindex="0">
-                                Human Resources
+                                Innovative Talent Cultivation
                             </div>
                         </li>
                         <li>
                             <div class="chara_butttom" tabindex="0">
-                                Indusctrial Park
+                                Distribution of Industrial Parks
                             </div>
                         </li>
                     </ul>
