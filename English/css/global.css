@@ -4390,12 +4390,10 @@ th {
 [data-type="1"][data-child] > .in > .ct > .in > [data-index][data-type] {
     width: 50%;
   }
-
   [data-type="1"][data-child] > .bg-drop-layout > .in > .ct > .in > [data-index][data-type]:nth-of-type(odd),
 [data-type="1"][data-child] > .in > .ct > .in > [data-index][data-type]:nth-of-type(odd) {
     clear: left;
   }
-
   [data-type="1"][data-child] > .bg-drop-layout > .in > .ct > .in > [data-index][data-type] [data-index][data-type],
 [data-type="1"][data-child] > .in > .ct > .in > [data-index][data-type] [data-index][data-type] {
     width: 100%;
@@ -4412,7 +4410,6 @@ th {
 [data-type="1"][data-child] > .in > .ct > .in > .accesskey ~ [data-index][data-type]:nth-of-type(odd) {
     clear: none;
   }
-
   [data-type="1"][data-child] > .bg-drop-layout > .in > .ct > .in > .accesskey ~ [data-index][data-type]:nth-of-type(even),
 [data-type="1"][data-child] > .in > .ct > .in > .accesskey ~ [data-index][data-type]:nth-of-type(even) {
     clear: left;
@@ -5407,7 +5404,6 @@ th {
 .is-newYear .base-wrapper::after {
     display: none;
   }
-
   .is-newYear .base-wrapper > .in::before,
 .is-newYear .base-wrapper > .in::after {
     display: none;
@@ -5497,7 +5493,6 @@ th {
 .is-moon .base-wrapper::after {
     display: none;
   }
-
   .is-moon .base-wrapper > .in::before,
 .is-moon .base-wrapper > .in::after {
     display: none;
@@ -5587,7 +5582,6 @@ th {
 .is-dragon .base-wrapper::after {
     display: none;
   }
-
   .is-dragon .base-wrapper > .in::before,
 .is-dragon .base-wrapper > .in::after {
     display: none;
@@ -8030,7 +8024,6 @@ th {
     width: 25% !important;
     clear: none;
   }
-
   .list-text.tab .ct li:nth-child(4n+1) {
     clear: left;
   }
@@ -8041,7 +8034,6 @@ th {
     width: 50% !important;
     clear: none;
   }
-
   .list-text.tab .ct li:nth-child(2n+1) {
     clear: left;
   }
@@ -8436,7 +8428,6 @@ th {
     width: 1250% !important;
     clear: none;
   }
-
   .list-pic.marquee .ct ul:nth-child(4n+1) {
     clear: left;
   }
@@ -8447,7 +8438,6 @@ th {
     width: 1666.66667% !important;
     clear: none;
   }
-
   .list-pic.marquee .ct ul:nth-child(3n+1) {
     clear: left;
   }
@@ -8458,7 +8448,6 @@ th {
     width: 2500% !important;
     clear: none;
   }
-
   .list-pic.marquee .ct ul:nth-child(2n+1) {
     clear: left;
   }
@@ -8611,7 +8600,6 @@ th {
     width: 1250% !important;
     clear: none;
   }
-
   .list-pic.marquee04 .ct ul:nth-child(4n+1) {
     clear: left;
   }
@@ -8622,7 +8610,6 @@ th {
     width: 1666.66667% !important;
     clear: none;
   }
-
   .list-pic.marquee04 .ct ul:nth-child(3n+1) {
     clear: left;
   }
@@ -8633,7 +8620,6 @@ th {
     width: 2500% !important;
     clear: none;
   }
-
   .list-pic.marquee04 .ct ul:nth-child(2n+1) {
     clear: left;
   }
@@ -9963,7 +9949,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 33.33333% !important;
     clear: none;
   }
-
   .group-list.global-list > .bg-drop-layout > .in > .ct > .in > ul > li:nth-child(3n+1),
 .group-list.global-list > .in > .ct > .in > ul > li:nth-child(3n+1) {
     clear: left;
@@ -9976,7 +9961,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 50% !important;
     clear: none;
   }
-
   .group-list.global-list > .bg-drop-layout > .in > .ct > .in > ul > li:nth-child(2n+1),
 .group-list.global-list > .in > .ct > .in > ul > li:nth-child(2n+1) {
     clear: left;
@@ -9989,7 +9973,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 100% !important;
     clear: none;
   }
-
   .group-list.global-list > .bg-drop-layout > .in > .ct > .in > ul > li:nth-child(1n+1),
 .group-list.global-list > .in > .ct > .in > ul > li:nth-child(1n+1) {
     clear: left;
@@ -10492,7 +10475,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 1250% !important;
     clear: none;
   }
-
   .list-pic.marquee03 .ct ul:nth-child(4n+1) {
     clear: left;
   }
@@ -10503,7 +10485,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 1666.66667% !important;
     clear: none;
   }
-
   .list-pic.marquee03 .ct ul:nth-child(3n+1) {
     clear: left;
   }
@@ -10514,7 +10495,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 2500% !important;
     clear: none;
   }
-
   .list-pic.marquee03 .ct ul:nth-child(2n+1) {
     clear: left;
   }
@@ -10688,7 +10668,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 1250% !important;
     clear: none;
   }
-
   .list-pic.marquee-circle .ct ul:nth-child(4n+1) {
     clear: left;
   }
@@ -10699,7 +10678,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 1666.66667% !important;
     clear: none;
   }
-
   .list-pic.marquee-circle .ct ul:nth-child(3n+1) {
     clear: left;
   }
@@ -10710,7 +10688,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 2500% !important;
     clear: none;
   }
-
   .list-pic.marquee-circle .ct ul:nth-child(2n+1) {
     clear: left;
   }
@@ -10886,7 +10863,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 1250% !important;
     clear: none;
   }
-
   .group-list.marquee > .bg-drop-layout > .in > .ct > .in > ul:nth-child(4n+1),
 .group-list.marquee > .in > .ct > .in > ul:nth-child(4n+1) {
     clear: left;
@@ -10899,7 +10875,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 1666.66667% !important;
     clear: none;
   }
-
   .group-list.marquee > .bg-drop-layout > .in > .ct > .in > ul:nth-child(3n+1),
 .group-list.marquee > .in > .ct > .in > ul:nth-child(3n+1) {
     clear: left;
@@ -10912,7 +10887,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 2500% !important;
     clear: none;
   }
-
   .group-list.marquee > .bg-drop-layout > .in > .ct > .in > ul:nth-child(2n+1),
 .group-list.marquee > .in > .ct > .in > ul:nth-child(2n+1) {
     clear: left;
@@ -11138,7 +11112,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 50% !important;
     clear: none;
   }
-
   .base-module-area .group-list.album > .bg-drop-layout > .in > .ct > .in > ul > li:nth-child(2n+1),
 .base-module-area .group-list.album > .in > .ct > .in > ul > li:nth-child(2n+1) {
     clear: left;
@@ -11151,7 +11124,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 100% !important;
     clear: none;
   }
-
   .base-module-area .group-list.album > .bg-drop-layout > .in > .ct > .in > ul > li:nth-child(1n+1),
 .base-module-area .group-list.album > .in > .ct > .in > ul > li:nth-child(1n+1) {
     clear: left;
@@ -11178,7 +11150,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 50% !important;
     clear: none;
   }
-
   .base-page-area .group-list.album > .bg-drop-layout > .in > .ct > .in > ul > li:nth-child(2n+1),
 .base-page-area .group-list.album > .in > .ct > .in > ul > li:nth-child(2n+1) {
     clear: left;
@@ -11191,7 +11162,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 100% !important;
     clear: none;
   }
-
   .base-page-area .group-list.album > .bg-drop-layout > .in > .ct > .in > ul > li:nth-child(1n+1),
 .base-page-area .group-list.album > .in > .ct > .in > ul > li:nth-child(1n+1) {
     clear: left;
@@ -11314,7 +11284,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 33.33333% !important;
     clear: none;
   }
-
   .base-module-area .group-list.link > .bg-drop-layout > .in > .ct > .in > ul > li:nth-child(3n+1),
 .base-module-area .group-list.link > .in > .ct > .in > ul > li:nth-child(3n+1) {
     clear: left;
@@ -11327,7 +11296,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 100% !important;
     clear: none;
   }
-
   .base-module-area .group-list.link > .bg-drop-layout > .in > .ct > .in > ul > li:nth-child(1n+1),
 .base-module-area .group-list.link > .in > .ct > .in > ul > li:nth-child(1n+1) {
     clear: left;
@@ -11351,7 +11319,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 50% !important;
     clear: none;
   }
-
   .list-pic.link .ct li:nth-child(2n+1) {
     clear: left;
   }
@@ -11407,7 +11374,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 50% !important;
     clear: none;
   }
-
   .list-pic.link02 .ct li:nth-child(2n+1) {
     clear: left;
   }
@@ -12739,7 +12705,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 50% !important;
     clear: none;
   }
-
   .area-customize.news-card .ct li:nth-child(2n+1) {
     clear: left;
   }
@@ -12750,7 +12715,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 100% !important;
     clear: none;
   }
-
   .area-customize.news-card .ct li:nth-child(1n+1) {
     clear: left;
   }
@@ -13152,7 +13116,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 1666.66667% !important;
     clear: none;
   }
-
   .group-list.message03 > .bg-drop-layout > .in > .ct > .in > ul:nth-child(3n+1),
 .group-list.message03 > .in > .ct > .in > ul:nth-child(3n+1) {
     clear: left;
@@ -13165,7 +13128,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 2500% !important;
     clear: none;
   }
-
   .group-list.message03 > .bg-drop-layout > .in > .ct > .in > ul:nth-child(2n+1),
 .group-list.message03 > .in > .ct > .in > ul:nth-child(2n+1) {
     clear: left;
@@ -13178,7 +13140,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 5000% !important;
     clear: none;
   }
-
   .group-list.message03 > .bg-drop-layout > .in > .ct > .in > ul:nth-child(1n+1),
 .group-list.message03 > .in > .ct > .in > ul:nth-child(1n+1) {
     clear: left;
@@ -13422,11 +13383,9 @@ ol.bignum > li:nth-child(100)::before {
     height: auto;
     overflow: visible;
   }
-
   .area-customize.message .ct .p p > * {
     float: none;
   }
-
   .area-customize.message .ct .p p:before,
 .area-customize.message .ct .p p:after {
     content: none;
@@ -14506,7 +14465,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 1250% !important;
     clear: none;
   }
-
   .group-list.album02 > .bg-drop-layout > .in > .ct > .in > ul:nth-child(4n+1),
 .group-list.album02 > .in > .ct > .in > ul:nth-child(4n+1) {
     clear: left;
@@ -14519,7 +14477,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 1666.66667% !important;
     clear: none;
   }
-
   .group-list.album02 > .bg-drop-layout > .in > .ct > .in > ul:nth-child(3n+1),
 .group-list.album02 > .in > .ct > .in > ul:nth-child(3n+1) {
     clear: left;
@@ -14532,7 +14489,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 2500% !important;
     clear: none;
   }
-
   .group-list.album02 > .bg-drop-layout > .in > .ct > .in > ul:nth-child(2n+1),
 .group-list.album02 > .in > .ct > .in > ul:nth-child(2n+1) {
     clear: left;
@@ -14753,7 +14709,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 5000% !important;
     clear: none;
   }
-
   .group-list.album03 > .bg-drop-layout > .in > .ct > .in > ul:nth-child(1n+1),
 .group-list.album03 > .in > .ct > .in > ul:nth-child(1n+1) {
     clear: left;
@@ -16647,7 +16602,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 50% !important;
     clear: none;
   }
-
   .group-list.page-block > .bg-drop-layout > .in > .ct > .in > ul > li:nth-child(2n+1),
 .group-list.page-block > .in > .ct > .in > ul > li:nth-child(2n+1) {
     clear: left;
@@ -16660,7 +16614,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 100% !important;
     clear: none;
   }
-
   .group-list.page-block > .bg-drop-layout > .in > .ct > .in > ul > li:nth-child(1n+1),
 .group-list.page-block > .in > .ct > .in > ul > li:nth-child(1n+1) {
     clear: left;
@@ -17335,7 +17288,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 50% !important;
     clear: none;
   }
-
   .list-pic.album .ct li:nth-child(2n+1) {
     clear: left;
   }
@@ -20419,7 +20371,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 33.33333% !important;
     clear: none;
   }
-
   .list-pic.pic-download .ct li:nth-child(3n+1) {
     clear: left;
   }
@@ -22105,7 +22056,6 @@ ol.bignum > li:nth-child(100)::before {
     width: 50% !important;
     clear: none;
   }
-
   .list-pic.page-list .ct li:nth-child(2n+1) {
     clear: left;
   }
@@ -26777,7 +26727,20 @@ body, html {
   }
 }
 
-/* 20221013v1版-喜美*/
+/* 20221110v1版-喜美*/
+.advantage {
+  margin: 6em auto;
+}
+@media (max-width: 768px) {
+  .advantage {
+    margin-bottom: 3.5em;
+  }
+}
+
+.base-module-area .area-essay.link .ct .div .essay .caption span {
+  font-size: 1.2em;
+}
+
 @media (max-width: 1200px) {
   .base-header .group-list.nav > .in > .ct > .in > ul {
     margin: -0.5em 1em 0;
@@ -26986,4 +26949,8 @@ body, html {
   .group.base-footer .area-editor.address > .in > .ct > .in:first-child p:last-child {
     top: -19em;
   }
+}
+
+.group-list.slider > .in > .hd > .in h2 a {
+  line-height: 1.5;
 }
