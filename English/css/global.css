@@ -26585,10 +26585,12 @@ body, html {
 }
 .list-text.minor-nav > .in > .ct ul {
   padding: 24px 0;
+  max-width: 350px;
 }
 @media (max-width: 991px) {
   .list-text.minor-nav > .in > .ct ul {
     padding: 12px 0;
+    max-width: 300px;
   }
 }
 .list-text.minor-nav > .in > .ct ul li {
@@ -26622,10 +26624,8 @@ body, html {
 .list-text.minor-nav > .in > .ct a::before {
   content: "";
   position: absolute;
-  top: 50%;
+  top: 14px;
   left: 28px;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
   width: 7px;
   height: 7px;
   border-radius: 50%;
@@ -26637,6 +26637,7 @@ body, html {
   .list-text.minor-nav > .in > .ct a::before {
     width: 5px;
     height: 5px;
+    top: 15px;
     left: 18px;
   }
 }
@@ -26727,7 +26728,7 @@ body, html {
   }
 }
 
-/* 20221110v1版-喜美*/
+/* 20221123v1版-喜美*/
 .advantage {
   margin: 6em auto;
 }
@@ -26939,10 +26940,6 @@ body, html {
   .group-tab.default > .in > .ct > .in > ul > li > .group-list.slider > .in > .ft {
     margin: 40px auto 0;
   }
-}
-
-.advantage .intro {
-  text-align: left;
 }
 
 @media (max-width: 768px) {
