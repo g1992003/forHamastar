@@ -5,5 +5,5 @@
     <div class="intro">
         Taoyuan City has accelerated the development of 5+2 industrial parks in response to the trade competition between China and the United States, helping homecoming manufacturers stay in Taiwan. It also establishes a “Homecoming Taiwan Businesses Team” to assist enterprises with “5 shortages” with a one-stop investment service. It is the first choice for corporate investment. Among the Three Major Investment Plans in Taiwan, the total investment in Taoyuan in 2020 exceeds NT$231.1 billion (about US$7.2 billion), ranking first in Taiwan. The city has unlimited potential for development. 
     </div>
-    <img src="images/01_TAOYUAN_index_07_en.png">
+    <img src="images/01_TAOYUAN_index_07_en.png" />
 </div>
