@@ -26728,7 +26728,6 @@ body, html {
   }
 }
 
-/* 20221123v1版-喜美*/
 .advantage {
   margin: 6em auto;
 }
@@ -26951,3 +26950,9 @@ body, html {
 .group-list.slider > .in > .hd > .in h2 a {
   line-height: 1.5;
 }
+
+.office {
+  display: none;
+}
+
+/* 20221206-1版本(喜美) */
